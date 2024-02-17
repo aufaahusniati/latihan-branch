@@ -1,3 +1,3 @@
 # latihan-branch
 
-Ini adalah repositary untuk membuat branch di GitHub
+Ini adalah repository untuk membuat branch di GitHub
